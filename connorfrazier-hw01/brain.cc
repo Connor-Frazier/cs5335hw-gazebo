@@ -33,8 +33,6 @@ callback(Robot* robot)
         return;
     }
 
-    // https://youtu.be/5DNIvDENWiU
-
     //Set the velocity of the robot
     robot->set_vel(50.0);
 
