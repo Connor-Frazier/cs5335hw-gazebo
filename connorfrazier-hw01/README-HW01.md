@@ -9,7 +9,6 @@ The demo video audio is low due to equipment restrictions, headphones may be nec
 
 Control Program Decision Outline
 
-Turn Decision:
   If objects on both left and right, choose easiest turn choice based on
   which side has the smallest angle. If there is no difference, choose to
   turn in the direction the robot is already headed. Lastly default turn is
